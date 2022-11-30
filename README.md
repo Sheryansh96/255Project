@@ -50,6 +50,9 @@ Proposed Methodology and Techniques Used: -
 4) sklearn
 5) py-xgboost
 
+# Running :- 
+
+To run either the cancer, diabetes or Heart Attack problem, install the packages mentioned in the Installations section. Once done navigate to one of the notebooks and run them using Jupyter notebook.
 
 
 References: -
