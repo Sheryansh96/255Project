@@ -42,7 +42,20 @@ Proposed Methodology and Techniques Used: -
 5)Obtain and visualize the results.
 
 
+# Installations:-
+
+1) Python : 3.7.13
+2) Numpy
+3) Pandas
+4) sklearn
+5) py-xgboost
+
+
 
 References: -
 
 https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf
+
+
+
+
