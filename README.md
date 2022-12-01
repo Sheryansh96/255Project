@@ -12,7 +12,7 @@ Chiranjeevi Venkata Medam (ID: - 016656315)
 
 Rohit Kotecha (ID: - 016421405)
 
-Project Title: - Disease Susceptibility![image](https://user-images.githubusercontent.com/29678695/205168813-ce0e2138-9e36-4529-b263-f80f7539e1a2.png)
+Project Title: - Disease Susceptibility
 Dataset: - 
 The Dataset has been taken from CDC, The link to access the dataset is given below.
 https://www.cdc.gov/brfss/annual_data/2021/files/LLCP2021XPT.zip
