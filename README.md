@@ -54,6 +54,8 @@ Proposed Methodology and Techniques Used: -
 
 To run either the cancer, diabetes or Heart Attack problem, install the packages mentioned in the Installations section. Once done navigate to one of the notebooks and run them using Jupyter notebook.
 
+We have updataed a test_data.csv which can be used to validate the notebooks for the predictions.
+
 
 References: -
 
